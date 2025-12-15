@@ -32,7 +32,7 @@ Only publicly available datasets are used.
 
 
 
-## Methodological Approach (High Level)
+## Methodological Approach
 
 The project follows a conservative and interpretable analytical approach, emphasizing:
 
@@ -70,7 +70,7 @@ Code, notebooks, and supporting materials will be added incrementally as the pro
 
 
 
-## Disclaimer & Usage
+## Disclaimer and Usage
 
 This repository is shared for **portfolio demonstration and educational purposes only**.
 
